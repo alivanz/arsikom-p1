@@ -16,6 +16,6 @@ int main (void) {
 	printf ("masukkan input: \n");
 	scanf ("%d %d", &x, &y);
 	printf ("hasil = %d\n", sum (x,y));
-	
+
 	return 0;
 }
