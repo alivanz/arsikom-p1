@@ -10,7 +10,7 @@
 // Deskripsi : Demonstrasi MakeFile
 // Memanggil prosedur test pada text.c
 #include "text.h"
-void main(void)
+int main(void)
 {
 test();
 }
